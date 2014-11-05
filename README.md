@@ -6,9 +6,16 @@ YouTube library for making API requests from Appcelerator Titanium apps easier.
 
 ## Screenshots ##
 
+###OAuth Login###
 ![OAuth](https://github.com/quinn-madson/TiYouTubeAPI/blob/master/Screenshots/01-OAuth.png?raw=true)
-![Permissions](https://github.com/quinn-madson/TiYouTubeAPI/blob/master/Screenshots/02-Permissions.png?raw=true)
+
+###Permissions###
+![Permission](https://github.com/quinn-madson/TiYouTubeAPI/blob/master/Screenshots/02-Permission.png?raw=true)
+
+###Video List###
 ![Video List](https://github.com/quinn-madson/TiYouTubeAPI/blob/master/Screenshots/03-VideoList.png?raw=true)
+
+###Video Player###
 ![Video Player](https://github.com/quinn-madson/TiYouTubeAPI/blob/master/Screenshots/04-VideoPlayer.png?raw=true)
 
 ## Getting Started ##
