@@ -82,5 +82,6 @@ Take a look at the included example app for further details on using the library
 
 TiYouTubeAPI requires googleAuth.js (made by Miroslav Magda). The example app includes the ytPlayer 1.0 widget built by Bob Sims.
 
-[Google Auth for Titanium](https://github.com/ejci/Google-Auth-for-Titanium)
-[ytPlayer](https://github.com/bob-sims/ytPlayer/)
+  * [Google Auth for Titanium](https://github.com/ejci/Google-Auth-for-Titanium)
+
+  * [ytPlayer](https://github.com/bob-sims/ytPlayer/)
