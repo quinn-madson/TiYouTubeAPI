@@ -71,7 +71,7 @@ YouTube.send({
 		callback : function(data) {
       alert("Hooray, data! " + data);
     }
-	});
+});
 ```
 
 ## Further examples ##
