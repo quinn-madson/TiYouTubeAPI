@@ -1,0 +1,50 @@
+"Label": {
+	color: "#EFECCA"
+},
+
+"Button": {
+	color: "#EFECCA",
+	height: "40dp",
+	width: Ti.UI.SIZE
+},
+
+"Window": {
+	backgroundColor:"#046380"
+},
+
+"#main": {
+	backgroundColor:"#046380",
+	layout: "vertical",
+	height: Ti.UI.FILL,
+	width: Ti.UI.FILL,
+	top: "30dp"
+},
+
+"#controls": {
+	backgroundColor: "#046380",
+	width: Ti.UI.FILL,
+	height: "40dp",
+	layout: "composite"
+},
+
+"#sendIt": {
+	left: "10dp",
+	top: "0dp"
+},
+
+"#logout": {
+	right: "10dp",
+	top: "0dp"
+},
+
+"#results": {
+	top: "10dp",
+	backgroundColor: "#EFECCA"
+},
+
+".header": {
+	font: {
+		fontSize: "18dp",
+		fontWeight: "bold"
+	}	
+}

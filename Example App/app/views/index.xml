@@ -1,0 +1,16 @@
+<Alloy>
+	<Window>
+		<View id="main">
+			
+			<Label class="header">YouTube Example</Label>
+			
+			<View id="controls">
+				<Button id="sendIt">Youtube Send</Button> 
+				<Button id="logout">Logout</Button>
+			</View>
+			
+			<TableView id="results"></TableView>
+			
+		</View>
+	</Window>
+</Alloy>

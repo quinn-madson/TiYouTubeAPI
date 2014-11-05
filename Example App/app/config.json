@@ -1,0 +1,21 @@
+{
+	"global": {
+		"googleAuth": { 
+			"clientId": "1059383751733-a1ne37if268lt726mb5eso11038e5kq5.apps.googleusercontent.com",
+			"clientSecret": "qrlq907w4Owz5FRZv52momPd",
+			"propertyName": "googleToken",
+			"quiet": false,
+			"scope": ["https://www.googleapis.com/auth/youtube"]
+		}
+	},
+	"env:development": {},
+	"env:test": {},
+	"env:production": {},
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {
+		"ytPlayer": "1.0"
+	}
+}
